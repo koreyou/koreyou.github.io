@@ -830,6 +830,17 @@ footer.sticky-bottom {
       border-color: var(--global-highlight-color);
     }
   }
+  span.publications-tag {
+      font-size: 60%;
+      color: var(--global-theme-color)!important;
+      background-color: white;
+      box-shadow: none;
+      border: 1px solid var(--global-theme-color);
+      padding-top: .1rem;
+      padding-bottom: .1rem;
+      padding-left: 0.5rem;
+      padding-right: 0.5rem;
+  }
 }
 
 // Rouge Color Customization
