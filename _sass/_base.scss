@@ -829,6 +829,12 @@ footer.sticky-bottom {
     div.award.hidden.open {
       border-color: var(--global-highlight-color);
     }
+    div.ja-entry.hidden {
+      border: dashed 1px var(--global-bg-color);
+    }
+    div.ja-entry.hidden.open {
+      border-color: var(--global-highlight-color);
+    }
   }
   span.publications-tag {
       font-size: 60%;
