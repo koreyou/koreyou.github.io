@@ -73,6 +73,13 @@
   ],
   "awards": [
     {
+      "title": "2024 TMLR Outstanding Certification",
+      "date": "2024",
+      "awarder": "The 2024 TMLR Outstanding Paper Committee",
+      "url": "https://medium.com/@TmlrOrg/announcing-the-2024-tmlr-outstanding-certification-65f25d05c37c",
+      "summary": "2024 Transactions on Machine Learning Research Outstanding Certification (a.k.a. best paper award) given to a co-authored paper \"Holistic Evaluation of Language Models\""
+    },
+    {
       "title": "JSAI Annual Conference Award",
       "date": "2023",
       "awarder": "The Japanese Society for Artificial Intelligence",
