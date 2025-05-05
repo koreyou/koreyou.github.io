@@ -182,7 +182,7 @@
       {{ entry.note | strip }}
     </div>
     {% if entry.tags %}
-      {% assign tags_split = entry.tags | split: "," %}
+      {% assign tags_split = entry.tags | split: ',' %}
       {% for pub_tag in tags_split %}
         <span class="rounded-pill badge publications-tag">
           {{ pub_tag | strip }}
