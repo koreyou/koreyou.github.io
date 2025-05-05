@@ -834,15 +834,15 @@ footer.sticky-bottom {
     }
   }
   span.publications-tag {
-      font-size: 60%;
-      color: var(--global-theme-color)!important;
-      background-color: white;
-      box-shadow: none;
-      border: 1px solid var(--global-theme-color);
-      padding-top: .1rem;
-      padding-bottom: .1rem;
-      padding-left: 0.5rem;
-      padding-right: 0.5rem;
+    font-size: 60%;
+    color: var(--global-theme-color) !important;
+    background-color: white;
+    box-shadow: none;
+    border: 1px solid var(--global-theme-color);
+    padding-top: 0.1rem;
+    padding-bottom: 0.1rem;
+    padding-left: 0.5rem;
+    padding-right: 0.5rem;
   }
 }
 
