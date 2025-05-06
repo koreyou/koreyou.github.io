@@ -11,11 +11,20 @@
   "work": [
     {
       "name": "Hitachi, Ltd.",
+      "position": "Chief Researcher",
+      "location": "Tokyo, Japan",
+      "url": "https://www.hitachi.com/rd/about/index.html",
+      "startDate": "2025-04",
+      "endDate": "Present",
+      "summary": ""
+    },
+    {
+      "name": "Hitachi, Ltd.",
       "position": "Senior Researcher",
       "location": "Tokyo, Japan",
       "url": "https://www.hitachi.com/rd/about/index.html",
-      "startDate": "2015-04",
-      "endDate": "Present",
+      "startDate": "2024-04",
+      "endDate": "2025-03",
       "summary": ""
     },
     {
@@ -34,6 +43,15 @@
       "url": "",
       "startDate": "2020-02",
       "endDate": "2022-05",
+      "summary": ""
+    },
+    {
+      "name": "Hitachi, Ltd.",
+      "position": "Researcher",
+      "location": "Tokyo, Japan",
+      "url": "https://www.hitachi.com/rd/about/index.html",
+      "startDate": "2015-04",
+      "endDate": "2024-03",
       "summary": ""
     },
     {
