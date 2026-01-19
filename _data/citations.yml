@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-01-12'
+  last_updated: '2026-01-19'
 papers:
   zUJ8Ao4AAAAJ:-f6ydRqryjwC:
     citations: 0
@@ -18,7 +18,7 @@ papers:
     title: 'Towards better non-tree argument mining: Proposition-level biaffine parsing with task-specific parameterization'
     year: '2020'
   zUJ8Ao4AAAAJ:4DMP91E08xMC:
-    citations: 70
+    citations: 75
     title: Holistic evaluation of language models, 2023
     year: '2023'
   zUJ8Ao4AAAAJ:4JMBOYKVnBMC:
@@ -46,7 +46,7 @@ papers:
     title: "The effect of forceps manipulation for expert pediatric surgeons using an endoscopic pseudo-viewpoint alternating system: the phenomenon of economical slow and fast performance \u2026"
     year: '2015'
   zUJ8Ao4AAAAJ:HDshCWvjkbEC:
-    citations: 27
+    citations: 28
     title: Holistic evaluation of language models. arXiv 2022
     year: Unknown Year
   zUJ8Ao4AAAAJ:IWHjjKOFINEC:
@@ -138,7 +138,7 @@ papers:
     title: Building Domain-Specific Small Language Models on a Shoestring via Guided Data Generation
     year: '2025'
   zUJ8Ao4AAAAJ:_kc_bZDykSQC:
-    citations: 148
+    citations: 153
     title: 'ContractNLI: A Dataset for Document-level Natural Language Inference for Contracts'
     year: '2021'
   zUJ8Ao4AAAAJ:aqlVkmm33-oC:
@@ -150,7 +150,7 @@ papers:
     title: "\u753B\u50CF\u51E6\u7406\u3092\u7528\u3044\u305F\u8996\u70B9\u5909\u66F4\u6280\u8853\u3088\u308B\u624B\u8853\u652F\u63F4\u30ED\u30DC\u30C3\u30C8\u306E hand-eye coordination \u306E\u5411\u4E0A"
     year: '2013'
   zUJ8Ao4AAAAJ:dhFuZR0502QC:
-    citations: 7
+    citations: 8
     title: 'LARCH: Large language model-based automatic readme creation with heuristics'
     year: '2023'
   zUJ8Ao4AAAAJ:e5wmG9Sq2KIC:
@@ -194,7 +194,7 @@ papers:
     title: "\u55B6\u696D\u6D3B\u52D5\u306E\u30C6\u30AD\u30B9\u30C8\u30C7\u30FC\u30BF\u306B\u57FA\u3065\u304F\u55B6\u696D\u884C\u52D5\u306E\u691C\u51FA\u3068\u53EF\u8996\u5316"
     year: '2024'
   zUJ8Ao4AAAAJ:qxL8FJ1GzNcC:
-    citations: 2135
+    citations: 2161
     title: Holistic evaluation of language models
     year: '2022'
   zUJ8Ao4AAAAJ:r0BpntZqJG4C:
