@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-01-23'
+  last_updated: '2026-01-30'
 papers:
   zUJ8Ao4AAAAJ:-f6ydRqryjwC:
     citations: 0
@@ -18,7 +18,7 @@ papers:
     title: 'Towards better non-tree argument mining: Proposition-level biaffine parsing with task-specific parameterization'
     year: '2020'
   zUJ8Ao4AAAAJ:4DMP91E08xMC:
-    citations: 72
+    citations: 74
     title: Holistic evaluation of language models, 2023
     year: '2023'
   zUJ8Ao4AAAAJ:4JMBOYKVnBMC:
@@ -138,7 +138,7 @@ papers:
     title: Building Domain-Specific Small Language Models on a Shoestring via Guided Data Generation
     year: '2025'
   zUJ8Ao4AAAAJ:_kc_bZDykSQC:
-    citations: 154
+    citations: 157
     title: 'ContractNLI: A Dataset for Document-level Natural Language Inference for Contracts'
     year: '2021'
   zUJ8Ao4AAAAJ:aqlVkmm33-oC:
@@ -194,7 +194,7 @@ papers:
     title: "\u55B6\u696D\u6D3B\u52D5\u306E\u30C6\u30AD\u30B9\u30C8\u30C7\u30FC\u30BF\u306B\u57FA\u3065\u304F\u55B6\u696D\u884C\u52D5\u306E\u691C\u51FA\u3068\u53EF\u8996\u5316"
     year: '2024'
   zUJ8Ao4AAAAJ:qxL8FJ1GzNcC:
-    citations: 2162
+    citations: 2198
     title: Holistic evaluation of language models
     year: '2022'
   zUJ8Ao4AAAAJ:r0BpntZqJG4C:
