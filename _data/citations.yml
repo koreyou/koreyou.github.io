@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-01-30'
+  last_updated: '2026-02-20'
 papers:
   zUJ8Ao4AAAAJ:-f6ydRqryjwC:
     citations: 0
@@ -14,15 +14,11 @@ papers:
     title: Evaluation of image processing based pseudo endoscopic viewpoint alternating system
     year: '2014'
   zUJ8Ao4AAAAJ:3fE2CSJIrl8C:
-    citations: 52
+    citations: 53
     title: 'Towards better non-tree argument mining: Proposition-level biaffine parsing with task-specific parameterization'
     year: '2020'
-  zUJ8Ao4AAAAJ:4DMP91E08xMC:
-    citations: 74
-    title: Holistic evaluation of language models, 2023
-    year: '2023'
   zUJ8Ao4AAAAJ:4JMBOYKVnBMC:
-    citations: 0
+    citations: 1
     title: Agent Fine-tuning through Distillation for Domain-specific LLMs in Microdomains
     year: '2025'
   zUJ8Ao4AAAAJ:4TOpqqG69KYC:
@@ -81,12 +77,16 @@ papers:
     citations: 0
     title: "\u4E8B\u4F8B\u691C\u7D22\u3068\u8ABF\u67FB\u30C6\u30FC\u30DE\u63A8\u85A6\u306B\u57FA\u3065\u304F\u30D3\u30B8\u30CD\u30B9\u6226\u7565\u652F\u63F4 AI"
     year: '2019'
+  zUJ8Ao4AAAAJ:TFP_iSt0sucC:
+    citations: 60
+    title: Holistic evaluation of language models. arXiv
+    year: '2022'
   zUJ8Ao4AAAAJ:TQgYirikUcIC:
     citations: 0
     title: Transforming Low-quality Technical Documents into Narrative Sentences for Adapting LLMs to Niche Technical Domains
     year: '2025'
   zUJ8Ao4AAAAJ:Tyk-4Ss8FVUC:
-    citations: 13
+    citations: 15
     title: Neural attention model for classification of sentences that support promoting/suppressing relationship
     year: '2016'
   zUJ8Ao4AAAAJ:ULOm3_A8WrAC:
@@ -94,11 +94,11 @@ papers:
     title: 'i-Parser: Interactive parser development kit for natural language processing'
     year: '2021'
   zUJ8Ao4AAAAJ:UeHWp8X0CEIC:
-    citations: 10
+    citations: 9
     title: Virtually transparent surgical instruments in endoscopic surgery with augmentation of obscured regions
     year: '2016'
   zUJ8Ao4AAAAJ:W7OEmFMy1HYC:
-    citations: 12
+    citations: 11
     title: 'bunji at semeval-2017 task 3: Combination of neural similarity features and comment plausibility features'
     year: '2017'
   zUJ8Ao4AAAAJ:WF5omc3nYNoC:
@@ -114,7 +114,7 @@ papers:
     title: "\u30C7\u30A3\u30D9\u30FC\u30C8\u578B\u4EBA\u5DE5\u77E5\u80FD\u306E\u305F\u3081\u306E\u8A00\u8A9E\u7684\u8A3C\u62E0\u6027\u63A8\u8AD6\u554F\u984C\u306E\u5B9A\u5F0F\u5316"
     year: '2018'
   zUJ8Ao4AAAAJ:YOwf2qJgpHMC:
-    citations: 8
+    citations: 9
     title: Capturing Logical Structure of Visually Structured Documents with Multimodal Transition Parser
     year: '2021'
   zUJ8Ao4AAAAJ:YsMSGLbcyi4C:
@@ -124,7 +124,7 @@ papers:
   zUJ8Ao4AAAAJ:ZeXyd9-uunAC:
     citations: 16
     title: 'Holistic evaluation of language models. CoRR, abs/2211.09110, 2022. doi: 10.48550'
-    year: Unknown Year
+    year: '2022'
   zUJ8Ao4AAAAJ:Zph67rFs4hoC:
     citations: 19
     title: 'Hitachi at MRP 2020: Text-to-graph-notation transducer'
@@ -138,25 +138,25 @@ papers:
     title: Building Domain-Specific Small Language Models on a Shoestring via Guided Data Generation
     year: '2025'
   zUJ8Ao4AAAAJ:_kc_bZDykSQC:
-    citations: 157
+    citations: 161
     title: 'ContractNLI: A Dataset for Document-level Natural Language Inference for Contracts'
     year: '2021'
   zUJ8Ao4AAAAJ:aqlVkmm33-oC:
     citations: 5
     title: 'Hitachi at semeval-2023 task 3: Exploring cross-lingual multi-task strategies for genre and framing detection in online news'
     year: '2023'
+  zUJ8Ao4AAAAJ:bEWYMUwI8FkC:
+    citations: 0
+    title: Is Micro Domain-Adaptive Pre-Training Effective for Real-World Operations? Multi-Step Evaluation Reveals Potential and Bottlenecks
+    year: '2026'
   zUJ8Ao4AAAAJ:d1gkVwhDpl0C:
     citations: 0
     title: "\u753B\u50CF\u51E6\u7406\u3092\u7528\u3044\u305F\u8996\u70B9\u5909\u66F4\u6280\u8853\u3088\u308B\u624B\u8853\u652F\u63F4\u30ED\u30DC\u30C3\u30C8\u306E hand-eye coordination \u306E\u5411\u4E0A"
     year: '2013'
   zUJ8Ao4AAAAJ:dhFuZR0502QC:
-    citations: 8
-    title: 'LARCH: Large language model-based automatic readme creation with heuristics'
+    citations: 9
+    title: 'Larch: Large language model-based automatic readme creation with heuristics'
     year: '2023'
-  zUJ8Ao4AAAAJ:e5wmG9Sq2KIC:
-    citations: 0
-    title: "\u610F\u898B\u6587\u7AE0\u81EA\u52D5\u751F\u6210\u306E\u305F\u3081\u306E\u7D44\u5408\u305B\u69CB\u6587\u7279\u5FB4\u3092\u7528\u3044\u305F\u30B5\u30DD\u30FC\u30C8\u6027\u63A8\u5B9A; \u610F\u898B\u6587\u7AE0\u81EA\u52D5\u751F\u6210\u306E\u305F\u3081\u306E\u7D44\u5408\u305B\u69CB\u6587\u7279\u5FB4\u3092\u7528\u3044\u305F\u30B5\u30DD\u30FC\u30C8\u6027\u63A8\u5B9A; Textual Supportiveness Recognition Based on Combinations \u2026"
-    year: '2016'
   zUJ8Ao4AAAAJ:eQOLeE2rZwMC:
     citations: 4
     title: "\u56FD\u4F1A\u4F1A\u8B70\u9332\u3092\u7528\u3044\u305F\u30C7\u30A3\u30D9\u30FC\u30C8\u4EBA\u5DE5\u77E5\u80FD\u306B\u3088\u308B\u610F\u898B\u751F\u6210"
@@ -178,7 +178,7 @@ papers:
     title: "GeoSciAI2025: \u5730\u7403\u60D1\u661F\u79D1\u5B66\xD7 AI \u30B3\u30F3\u30DA\u30C6\u30A3\u30B7\u30E7\u30F3"
     year: '2025'
   zUJ8Ao4AAAAJ:kNdYIx-mwKoC:
-    citations: 4
+    citations: 5
     title: 'Split first and then rephrase: Hierarchical generation for sentence simplification'
     year: '2019'
   zUJ8Ao4AAAAJ:mB3voiENLucC:
@@ -194,7 +194,7 @@ papers:
     title: "\u55B6\u696D\u6D3B\u52D5\u306E\u30C6\u30AD\u30B9\u30C8\u30C7\u30FC\u30BF\u306B\u57FA\u3065\u304F\u55B6\u696D\u884C\u52D5\u306E\u691C\u51FA\u3068\u53EF\u8996\u5316"
     year: '2024'
   zUJ8Ao4AAAAJ:qxL8FJ1GzNcC:
-    citations: 2198
+    citations: 2362
     title: Holistic evaluation of language models
     year: '2022'
   zUJ8Ao4AAAAJ:r0BpntZqJG4C:
@@ -214,6 +214,6 @@ papers:
     title: Judgment support system and judgment support method
     year: '2018'
   zUJ8Ao4AAAAJ:zYLM7Y9cAGgC:
-    citations: 6
+    citations: 7
     title: 'StruAP: A Tool for Bundling Linguistic Trees through Structure-based Abstract Pattern'
     year: '2017'
