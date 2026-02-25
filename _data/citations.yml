@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-02-23'
+  last_updated: '2026-02-25'
 papers:
   zUJ8Ao4AAAAJ:-f6ydRqryjwC:
     citations: 0
@@ -19,8 +19,8 @@ papers:
     year: '2020'
   zUJ8Ao4AAAAJ:4JMBOYKVnBMC:
     citations: 1
-    title: Agent Fine-tuning through Distillation for Domain-specific LLMs in Microdomains
-    year: '2025'
+    title: Agent fine-tuning through distillation for domain-specific LLMs in microdomains
+    year: '2026'
   zUJ8Ao4AAAAJ:4TOpqqG69KYC:
     citations: 6
     title: Virtual shadow drawing system using augmented reality for laparoscopic surgery
@@ -78,7 +78,7 @@ papers:
     title: "\u4E8B\u4F8B\u691C\u7D22\u3068\u8ABF\u67FB\u30C6\u30FC\u30DE\u63A8\u85A6\u306B\u57FA\u3065\u304F\u30D3\u30B8\u30CD\u30B9\u6226\u7565\u652F\u63F4 AI"
     year: '2019'
   zUJ8Ao4AAAAJ:TFP_iSt0sucC:
-    citations: 60
+    citations: 61
     title: Holistic evaluation of language models. arXiv
     year: '2022'
   zUJ8Ao4AAAAJ:TQgYirikUcIC:
@@ -138,7 +138,7 @@ papers:
     title: Building Domain-Specific Small Language Models on a Shoestring via Guided Data Generation
     year: '2025'
   zUJ8Ao4AAAAJ:_kc_bZDykSQC:
-    citations: 161
+    citations: 162
     title: 'ContractNLI: A Dataset for Document-level Natural Language Inference for Contracts'
     year: '2021'
   zUJ8Ao4AAAAJ:aqlVkmm33-oC:
@@ -194,7 +194,7 @@ papers:
     title: "\u55B6\u696D\u6D3B\u52D5\u306E\u30C6\u30AD\u30B9\u30C8\u30C7\u30FC\u30BF\u306B\u57FA\u3065\u304F\u55B6\u696D\u884C\u52D5\u306E\u691C\u51FA\u3068\u53EF\u8996\u5316"
     year: '2024'
   zUJ8Ao4AAAAJ:qxL8FJ1GzNcC:
-    citations: 2372
+    citations: 2386
     title: Holistic evaluation of language models
     year: '2022'
   zUJ8Ao4AAAAJ:r0BpntZqJG4C:
