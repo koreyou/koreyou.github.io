@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-04-13'
+  last_updated: '2026-04-15'
 papers:
   zUJ8Ao4AAAAJ:-f6ydRqryjwC:
     citations: 0
@@ -126,7 +126,7 @@ papers:
     title: 'Holistic evaluation of language models. CoRR, abs/2211.09110, 2022. doi: 10.48550'
     year: '2022'
   zUJ8Ao4AAAAJ:Zph67rFs4hoC:
-    citations: 19
+    citations: 20
     title: 'Hitachi at MRP 2020: Text-to-graph-notation transducer'
     year: '2020'
   zUJ8Ao4AAAAJ:_FxGoFyzp5QC:
@@ -198,7 +198,7 @@ papers:
     title: "\u55B6\u696D\u6D3B\u52D5\u306E\u30C6\u30AD\u30B9\u30C8\u30C7\u30FC\u30BF\u306B\u57FA\u3065\u304F\u55B6\u696D\u884C\u52D5\u306E\u691C\u51FA\u3068\u53EF\u8996\u5316"
     year: '2024'
   zUJ8Ao4AAAAJ:qxL8FJ1GzNcC:
-    citations: 2607
+    citations: 2612
     title: Holistic evaluation of language models
     year: '2022'
   zUJ8Ao4AAAAJ:r0BpntZqJG4C:
