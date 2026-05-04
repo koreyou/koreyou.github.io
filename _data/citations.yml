@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-04-29'
+  last_updated: '2026-05-04'
 papers:
   zUJ8Ao4AAAAJ:-f6ydRqryjwC:
     citations: 0
@@ -78,7 +78,7 @@ papers:
     title: "\u4E8B\u4F8B\u691C\u7D22\u3068\u8ABF\u67FB\u30C6\u30FC\u30DE\u63A8\u85A6\u306B\u57FA\u3065\u304F\u30D3\u30B8\u30CD\u30B9\u6226\u7565\u652F\u63F4 AI"
     year: '2019'
   zUJ8Ao4AAAAJ:TFP_iSt0sucC:
-    citations: 68
+    citations: 69
     title: Holistic evaluation of language models. arXiv
     year: '2022'
   zUJ8Ao4AAAAJ:TQgYirikUcIC:
@@ -198,7 +198,7 @@ papers:
     title: "\u55B6\u696D\u6D3B\u52D5\u306E\u30C6\u30AD\u30B9\u30C8\u30C7\u30FC\u30BF\u306B\u57FA\u3065\u304F\u55B6\u696D\u884C\u52D5\u306E\u691C\u51FA\u3068\u53EF\u8996\u5316"
     year: '2024'
   zUJ8Ao4AAAAJ:qxL8FJ1GzNcC:
-    citations: 2688
+    citations: 2712
     title: Holistic evaluation of language models
     year: '2022'
   zUJ8Ao4AAAAJ:r0BpntZqJG4C:
